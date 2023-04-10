@@ -19,7 +19,7 @@ public class DAO {
 	private String user = "root";
 	
 	/** The password. */
-	private String password = "123@senac";
+	private String password = " ";
 
 	/**
 	 * Conectar.
